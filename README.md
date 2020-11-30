@@ -7,7 +7,6 @@
      Freelance iOS Developer<br>
      :point_down: Feel free  to contact me <br>
      :e-mail:	smilleriosdev@gmail.com <br>
-     :iphone: PocketFrame app: https://pocketframe.app <br>
      :briefcase: LinkedIn: https://www.linkedin.com/in/stanleylmillerjr/ <br>
      :speech_balloon: Twitter: https://www.twitter.com/mrmkeithappen
    </samp>
