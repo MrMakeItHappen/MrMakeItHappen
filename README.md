@@ -9,6 +9,7 @@
      :e-mail:	smilleriosdev@gmail.com <br>
      :briefcase: LinkedIn: https://www.linkedin.com/in/stanleylmillerjr/ <br>
      :speech_balloon: Twitter: https://www.twitter.com/mrmkeithappen
+     :iphone: Hire me @ bit.ly/3hlw9zm
    </samp>
  </p>
  ⭐️ From [MrMakeItHappen](https://github.com/MrMakeItHappen)
