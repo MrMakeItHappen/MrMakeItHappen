@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://firebasestorage.googleapis.com/v0/b/project-lotus-78fbd.appspot.com/o/clipart786385.png?alt=media&token=f7290cf3-0a61-4865-a287-1edf3bad3e92" width="200px">
+   <img src="https://firebasestorage.googleapis.com/v0/b/project-gaia-2535b.appspot.com/o/GitHub%20Apple%20Logo.png?alt=media&token=b100e8be-c2de-423e-9041-85899eb68089" width="200px">
    <br>
    <br>
    <samp>
