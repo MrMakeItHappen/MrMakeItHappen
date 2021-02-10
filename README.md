@@ -8,8 +8,8 @@
      :point_down: Feel free  to contact me <br>
      :e-mail:	smilleriosdev@gmail.com <br>
      :briefcase: LinkedIn: https://www.linkedin.com/in/stanleylmillerjr/ <br>
-     :speech_balloon: Twitter: https://www.twitter.com/mrmkeithappen
-     :iphone: Hire me @ bit.ly/3hlw9zm
+     :speech_balloon: Twitter: https://www.twitter.com/mrmkeithappen <br>
+     :iphone: Hire me @ https://bit.ly/3hlw9zm
    </samp>
  </p>
  ⭐️ From [MrMakeItHappen](https://github.com/MrMakeItHappen)
