@@ -4,7 +4,7 @@
    <br>
    <samp>
      Hello, name's Stan! 👋
-     Freelance iOS Developer<br>
+     iOS + Web Developer<br>
      :point_down: Feel free  to contact me <br>
      :e-mail:	smilleriosdev@gmail.com <br>
      :briefcase: LinkedIn: https://www.linkedin.com/in/stanleylmillerjr/ <br>
